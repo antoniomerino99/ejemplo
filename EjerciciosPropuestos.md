@@ -1,4 +1,4 @@
-#EJERCICIOS PROPUESTOS ED
+# EJERCICIOS PROPUESTOS ED
 
 **Ejercicio 1. Implementar una función *int max_subtree(bintree<int>* & *T)* que devuelva la suma de etiquetas máxima de entre todos los posibles subárboles del árbol binario T.
 Las etiquetas de los nodos pueden ser positivas o negativas (por tanto, el súbarbol vacío puede ser el de mayor suma, que se considera 0).**
